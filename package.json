@@ -28,16 +28,16 @@
     "src",
     "dist"
   ],
-  "author": "Tyler Long",
+  "author": "Test Type",
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/tylingsoft/markdown-plus.git"
+    "url": "git+https://github.com/malikibest/markdown-plus.git"
   },
   "bugs": {
-    "url": "https://github.com/tylingsoft/markdown-plus/issues"
+    "url": "https://github.com/malikibest/markdown-plus/issues"
   },
-  "homepage": "https://github.com/tylingsoft/markdown-plus#readme",
+  "homepage": "https://github.com/malikibest/markdown-plus#readme",
   "devDependencies": {
     "babel-core": "^6.24.1",
     "babel-loader": "^7.0.0",
